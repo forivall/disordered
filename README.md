@@ -22,9 +22,9 @@ npm i disordered
 ```
 
 ```ts
-import { greet } from "disordered";
+import { greet } from 'disordered';
 
-greet("Hello, world! 💖");
+greet('Hello, world! 💖');
 ```
 
 ## Development
