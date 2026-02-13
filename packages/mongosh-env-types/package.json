@@ -1,0 +1,20 @@
+{
+  "name": "mongosh-env-types",
+  "version": "0.0.0",
+  "description": "Type definitions for use inside of a mongosh script",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forivall/disordered.git",
+    "directory": "packages/mongosh-env-types"
+  },
+  "license": "Apache-2.0",
+  "author": {
+    "name": "Emily M Klassen",
+    "email": "hello@forivall.com"
+  },
+  "main": "",
+  "types": "mongosh-env.d.ts",
+  "dependencies": {
+    "@mongosh/shell-api": "^5.0.0"
+  }
+}
