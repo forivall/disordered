@@ -1,6 +1,7 @@
 {
   "name": "disordered",
   "version": "0.0.0",
+  "private": true,
   "description": "grab bag of random projects",
   "repository": {
     "type": "git",
@@ -29,6 +30,9 @@
   },
   "lint-staged": {
     "*": "prettier --ignore-unknown --write"
+  },
+  "dependencies": {
+    "@tsconfig/node20": "^20.1.9"
   },
   "devDependencies": {
     "@eslint-community/eslint-plugin-eslint-comments": "4.6.0",

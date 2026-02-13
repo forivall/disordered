@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": false
+  },
+  "extends": "./tsconfig.base.json",
+  "files": [],
+  "references": []
+}
